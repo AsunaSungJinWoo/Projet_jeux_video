@@ -1,4 +1,6 @@
-﻿using Microsoft.Xna.Framework;
+#program qui affiche bien la maps sans interconnexions
+
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
@@ -121,3 +123,4 @@ namespace aprentisage_tiled
         }
     }
 }
+
